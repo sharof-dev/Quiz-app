@@ -1,0 +1,234 @@
+[
+    {
+      "id": 1,
+      "question": "1kg oxakka 2,5 - 3 litr suv qo’shganda nima hosil bo’ladi:",
+      "options": [
+        "Oxak suti.",
+        "Kesak-oxak",
+        "Gidrat oxak",
+        "Kukun oxak"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Glinazemli stement asosiy xom-ash’yosini keltiring:",
+      "options": [
+        "Oxaktosh, glinazem;",
+        "Oxaktosh, soda",
+        "Oxaktosh, qumtuproq",
+        "Oxaktosh, kvarst"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Havoda qotadigan bog’lovchilarga qanday  materiallar kiradi?",
+      "options": [
+        "Ohak, gips va kaustik magnezit.",
+        "Tuproq, kaolin, bentonit va lyoss",
+        "Kvarst, dolomit, dala shpati va pegmatit",
+        "Soda, potash, perlit va kaolinit"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Sementtoshning chidamliligini izoxlang",
+      "options": [
+        "Sementtoshning chidamliligi- uning tashqi muhitning agressiv ta’siriga  qarshilik qilishidir.",
+        "Sementtoshning chidamliligi- uning tashqi muhitning agressiv ta’siriga  qarshilik qila olmasligidir",
+        "Sementtoshning chidamliligi- uning tashqi muhitning noagressiv ta’siriga  qarshilik qilishidir",
+        "Sementtoshning chidamliligi- uni tashqi muhitning noagressiv ta’siriga  qarshilik qila olmasligidir"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Sementning qotishini tezlatuvchi va mustahkamligini oshiruvchi qo’shimchalarni keltiring",
+      "options": [
+        "Kalstiy xlorid va xlorid kislota.",
+        "Temir oksidi va titan oksidi",
+        "Kaliy oksidi va alyuminiy oksidi",
+        "Kalstiy gidroksidi va natriy oksidi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Mergellar  qanday  material?",
+      "options": [
+        "Gilsimon moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi.",
+        "Toshsimon moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi",
+        "Suyuq  moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi",
+        "Gilsimon moddalar va juda mayda magniy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "question": "Qanday maxsulotga qurilish gipsi deb ataladi?",
+        "options": [
+          "150 -170 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan  maxsulotga.",
+          "100 –120 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan maxsulotga",
+          "100 -200 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan maxsulotg",
+          "200-270 oC temperaturada kuydirilgan gips toshni tuyib maydalangan  maxsulotga"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 8,
+        "question": "Qurilish gipsni formulasini keltiring.",
+        "options": [
+          "CaSO4 ∙ 0,5H2O.",
+          "CaSO4 ∙ 2H2O",
+          "CaSO4",
+          "CaCO3"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 9,
+        "question": "Qurilish gipsidan qaerlarda foydalaniladi",
+        "options": [
+          "Suvoq ishlarida ohak-gips qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda.",
+          "Suvoq ishlarida beton qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda",
+          "Suvoq ishlarida styajka qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda",
+          "Suvoq ishlarida pol qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 10,
+        "question": "Qurilish gipsi qanday modda?",
+        "options": [
+          "Tez tishlashadigan va tez qotadigan bog’lovchi modda.",
+          "Tez tishlashmaydigan va tez qotmaydigan bog’lovchi modda",
+          "Sekin tishlashadigan va sekin qotadigan bog’lovchi modda",
+          "Tez tishlashadigan va   qotmaydigan bog’lovchi modda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 11,
+        "question": "Yuqori mustahkamlikka ega bo’lgan gips qanday temperaturada kuydiriladi?",
+        "options": [
+          "Ikki molekula suvli tabiiy gipstoshni 750-800 oC temperaturada.",
+          "Ikki molekula suvli tabiiy gips-toshni 450-500 oC temperaturada",
+          "Ikki molekula suvli tabiiy gips-toshni 500-600 oC temperaturada",
+          "Ikki molekula suvli tabiiy gips-toshni 550-650 oC temperaturada"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 12,
+        "question": "Yuqori mustahkam gips qayerda ishlatiladi?",
+        "options": [
+          "Inshootlar qurishda, metallurgiya sanoatida qoliplar tayyorlashda.",
+          "Imoratlarni bezashda, keramik qoliplar tayyorlashda",
+          "Inshootlar qurishda, medistina sanoatida qoliplar tayyorlashda",
+          "Imoratlarni bezashda, g’isht qoliplari tayyorlashda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 13,
+        "question": "Havoda qotadigan ohak deb qanday moddaga aytiladi?",
+        "options": [
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi.",
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi",
+          "Oxaktosh tarkibida  gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi",
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 14,
+        "question": "Havoda qotadigan ohakning so’nish jarayoniga ko’ra tavsifi:",
+        "options": [
+          "Tez so’nuvchani 20 minutda,  sekin so’nuvchani 20 minutdan ortiq muddatda so’nadi.",
+          "Tez so’nuvchani  40 minutda, sekin so’nuvchani 40 minutdan ortiq muddatda so’nadi",
+          "Tez so’nuvchani 50 minutda, sekin so’nuvchani 50 minutdan ortiq muddatda so’nadi",
+          "Tez so’nuvchani 60 minutda, sekin so’nuvchani 60 minutdan ortiq muddatda so’nadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 15,
+        "question": "Ohakning sifatli kuydirilishini ta’minlash nimalarga bog’liq?",
+        "options": [
+          "Oxak bo’laklarining iloji boricha bir xil o’lchamda bo’lishi.",
+          "Oxak bo’laklarining iloji boricha xar xil o’lchamda bo’lishi",
+          "Oxak bo’laklarining iloji boricha juda yirik xil o’lchamda bo’lishi",
+          "Oxak bo’laklarining iloji boricha juda mayda xil o’lchamda bo’lishi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 16,
+        "question": "Kalstiy karbonatning to’liq parchalanish temperaturasi",
+        "options": [
+          "600 oC da boshlanadi, 900 oC da  to’liq parchalanadi.",
+          "400 oC da boshlanadi, 700 oC da  to’liq parchalanadi",
+          "500 oC da boshlanadi, 600 oC da  to’liq parchalanadi",
+          "300 oC da boshlanadi, 500 oC da  to’liq parchalanadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 17,
+        "question": "Oxaktosh kuydirilayotganda sodir bo’ladigan reakstiya.",
+        "options": [
+          "CaCO3 → CaO + CO2.",
+          "CaCO3 → Ca +O + Ca2",
+          "CaCO3 → Ca + CO2",
+          "CaCO3 → CaCO2+ O"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 18,
+        "question": "Oxakni qanday temperaturada kuydiriladi?",
+        "options": [
+          "1000 -1200 oC.",
+          "100 – 120 oC",
+          "1250 – 1350 oC",
+          "900 -950 oC"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 19,
+        "question": "Shlakli sement xom-ash’yosini keltiring:",
+        "options": [
+          "Domna toshqoli.",
+          "Kvarst qumi",
+          "Dala shpati;",
+          "Qo’rg’oshinli surik;"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 20,
+        "question": "Gidravlik oxak deb qanday moddaga aytiladi?",
+        "options": [
+          "Tarkibida 20 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi.",
+          "Tarkibida 5 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi.",
+          "Tarkibida 1 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi.",
+          "Tarkibida 4 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 20,
+        "question": "Gidravlik ohak qanday xossaga ega?",
+        "options": [
+          "Unga suv ta’sir qilganida, juda  maydalanib, nihoyatda mayda kukunga aylanib ketadi.",
+          "Unga suv ta’sir qilganida, juda maydalanmaydi, nihoyatda mayda kukunga aylanib ketmaydi",
+          "Unga suv ta’sir qilganida, juda maydalanib, nihoyatda yirik kukunga aylanib ketadi",
+          "Unga suv ta’sir qilganida, juda maydalanib, nihoyatda yirik donachalarga aylanib ketadi"
+        ],
+        "correctAnswerIndex": 0
+      }
+  ]
+  
