@@ -17,7 +17,17 @@ export default function Quiz() {
   const [startTime, setStartTime] = useState(Date.now());
 
   useEffect(() => {
-    setQuestions(shuffleArray(questionsData));
+    const prepared = shuffleArray(questionsData).map(q => {
+      const shuffledOptions = shuffleArray(q.options);
+      const newCorrectIndex = shuffledOptions.indexOf(q.correctAnswer);
+      return {
+        ...q,
+        options: shuffledOptions,
+        correctAnswerIndex: newCorrectIndex,
+      };
+    });
+  
+    setQuestions(prepared);
     setCurrentIndex(0);
     setAnswers([]);
     setTimes([]);

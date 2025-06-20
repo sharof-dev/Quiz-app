@@ -1,0 +1,1281 @@
+[
+    {
+      "id": 1,
+      "question": "1kg oxakka 2,5 - 3 litr suv qo’shganda nima hosil bo’ladi:",
+      "options": [
+        "Oxak suti ",
+        "Kesak-oxak",
+        "Gidrat oxak",
+        "Kukun oxak"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Glinazemli stement asosiy xom-ash’yosini keltiring:",
+      "options": [
+        "Oxaktosh, glinazem;",
+        "Oxaktosh, soda",
+        "Oxaktosh, qumtuproq",
+        "Oxaktosh, kvarst"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Havoda qotadigan bog’lovchilarga qanday  materiallar kiradi?",
+      "options": [
+        "Ohak, gips va kaustik magnezit ",
+        "Tuproq, kaolin, bentonit va lyoss",
+        "Kvarst, dolomit, dala shpati va pegmatit",
+        "Soda, potash, perlit va kaolinit"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Sementtoshning chidamliligini izoxlang",
+      "options": [
+        "Sementtoshning chidamliligi- uning tashqi muhitning agressiv ta’siriga  qarshilik qilishidir ",
+        "Sementtoshning chidamliligi- uning tashqi muhitning agressiv ta’siriga  qarshilik qila olmasligidir",
+        "Sementtoshning chidamliligi- uning tashqi muhitning noagressiv ta’siriga  qarshilik qilishidir",
+        "Sementtoshning chidamliligi- uni tashqi muhitning noagressiv ta’siriga  qarshilik qila olmasligidir"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Sementning qotishini tezlatuvchi va mustahkamligini oshiruvchi qo’shimchalarni keltiring",
+      "options": [
+        "Kalstiy xlorid va xlorid kislota ",
+        "Temir oksidi va titan oksidi",
+        "Kaliy oksidi va alyuminiy oksidi",
+        "Kalstiy gidroksidi va natriy oksidi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Mergellar  qanday  material?",
+      "options": [
+        "Gilsimon moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi ",
+        "Toshsimon moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi",
+        "Suyuq  moddalar va juda mayda kalstiy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi",
+        "Gilsimon moddalar va juda mayda magniy karbonat zarrachalarining tabiiy aralashmasidan iborat cho’kindi tog’ jinsi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+        "id": 7,
+        "question": "Qanday maxsulotga qurilish gipsi deb ataladi?",
+        "options": [
+          "150 -170 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan  maxsulotga ",
+          "100 –120 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan maxsulotga",
+          "100 -200 oC temperaturada kuydirilgan gipstoshni tuyib maydalangan maxsulotg",
+          "200-270 oC temperaturada kuydirilgan gips toshni tuyib maydalangan  maxsulotga"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 8,
+        "question": "Qurilish gipsni formulasini keltiring ",
+        "options": [
+          "CaSO4 ∙ 0,5H2O ",
+          "CaSO4 ∙ 2H2O",
+          "CaSO4",
+          "CaCO3"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 9,
+        "question": "Qurilish gipsidan qaerlarda foydalaniladi",
+        "options": [
+          "Suvoq ishlarida ohak-gips qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda ",
+          "Suvoq ishlarida beton qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda",
+          "Suvoq ishlarida styajka qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda",
+          "Suvoq ishlarida pol qorishmasi tayyorlash va binokorlik detallari ishlab chiqarishda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 10,
+        "question": "Qurilish gipsi qanday modda?",
+        "options": [
+          "Tez tishlashadigan va tez qotadigan bog’lovchi modda ",
+          "Tez tishlashmaydigan va tez qotmaydigan bog’lovchi modda",
+          "Sekin tishlashadigan va sekin qotadigan bog’lovchi modda",
+          "Tez tishlashadigan va   qotmaydigan bog’lovchi modda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 11,
+        "question": "Yuqori mustahkamlikka ega bo’lgan gips qanday temperaturada kuydiriladi?",
+        "options": [
+          "Ikki molekula suvli tabiiy gipstoshni 750-800 oC temperaturada ",
+          "Ikki molekula suvli tabiiy gips-toshni 450-500 oC temperaturada",
+          "Ikki molekula suvli tabiiy gips-toshni 500-600 oC temperaturada",
+          "Ikki molekula suvli tabiiy gips-toshni 550-650 oC temperaturada"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 12,
+        "question": "Yuqori mustahkam gips qayerda ishlatiladi?",
+        "options": [
+          "Inshootlar qurishda, metallurgiya sanoatida qoliplar tayyorlashda ",
+          "Imoratlarni bezashda, keramik qoliplar tayyorlashda",
+          "Inshootlar qurishda, medistina sanoatida qoliplar tayyorlashda",
+          "Imoratlarni bezashda, g’isht qoliplari tayyorlashda"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 13,
+        "question": "Havoda qotadigan ohak deb qanday moddaga aytiladi?",
+        "options": [
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi ",
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi",
+          "Oxaktosh tarkibida  gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi",
+          "Oxaktosh tarkibida   gacha gil qo’shilmalar bo’lgan, kuydirilgan, mayda tuyilgan bog’lovchi moddaga aytiladi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 14,
+        "question": "Havoda qotadigan ohakning so’nish jarayoniga ko’ra tavsifi:",
+        "options": [
+          "Tez so’nuvchani 20 minutda,  sekin so’nuvchani 20 minutdan ortiq muddatda so’nadi ",
+          "Tez so’nuvchani  40 minutda, sekin so’nuvchani 40 minutdan ortiq muddatda so’nadi",
+          "Tez so’nuvchani 50 minutda, sekin so’nuvchani 50 minutdan ortiq muddatda so’nadi",
+          "Tez so’nuvchani 60 minutda, sekin so’nuvchani 60 minutdan ortiq muddatda so’nadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 15,
+        "question": "Ohakning sifatli kuydirilishini ta’minlash nimalarga bog’liq?",
+        "options": [
+          "Oxak bo’laklarining iloji boricha bir xil o’lchamda bo’lishi ",
+          "Oxak bo’laklarining iloji boricha xar xil o’lchamda bo’lishi",
+          "Oxak bo’laklarining iloji boricha juda yirik xil o’lchamda bo’lishi",
+          "Oxak bo’laklarining iloji boricha juda mayda xil o’lchamda bo’lishi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 16,
+        "question": "Kalstiy karbonatning to’liq parchalanish temperaturasi",
+        "options": [
+          "600 oC da boshlanadi, 900 oC da  to’liq parchalanadi ",
+          "400 oC da boshlanadi, 700 oC da  to’liq parchalanadi",
+          "500 oC da boshlanadi, 600 oC da  to’liq parchalanadi",
+          "300 oC da boshlanadi, 500 oC da  to’liq parchalanadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 17,
+        "question": "Oxaktosh kuydirilayotganda sodir bo’ladigan reakstiya ",
+        "options": [
+          "CaCO3 → CaO + CO2 ",
+          "CaCO3 → Ca +O + Ca2",
+          "CaCO3 → Ca + CO2",
+          "CaCO3 → CaCO2+ O"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 18,
+        "question": "Oxakni qanday temperaturada kuydiriladi?",
+        "options": [
+          "1000 -1200 oC ",
+          "100 – 120 oC",
+          "1250 – 1350 oC",
+          "900 -950 oC"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 19,
+        "question": "Shlakli sement xom-ash’yosini keltiring:",
+        "options": [
+          "Domna toshqoli ",
+          "Kvarst qumi",
+          "Dala shpati;",
+          "Qo’rg’oshinli surik;"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 20,
+        "question": "Gidravlik oxak deb qanday moddaga aytiladi?",
+        "options": [
+          "Tarkibida 20 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi ",
+          "Tarkibida 5 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi ",
+          "Tarkibida 1 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi ",
+          "Tarkibida 4 % gacha gil aralashma bo’ladigan mergelni kuydirib, mayda tuyilgan bog’lovchi moddaga aytiladi "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 21,
+        "question": "Gidravlik ohak qanday xossaga ega?",
+        "options": [
+          "Unga suv ta’sir qilganida, juda  maydalanib, nihoyatda mayda kukunga aylanib ketadi ",
+          "Unga suv ta’sir qilganida, juda maydalanmaydi, nihoyatda mayda kukunga aylanib ketmaydi",
+          "Unga suv ta’sir qilganida, juda maydalanib, nihoyatda yirik kukunga aylanib ketadi",
+          "Unga suv ta’sir qilganida, juda maydalanib, nihoyatda yirik donachalarga aylanib ketadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 22,
+        "question": "Ohaktosh yoki magnezial mergellarning pishirib, mayda tuyishdan hosil bo’lgan mahsulot ",
+        "options": [
+          "Ohaktosh yoki magnezial mergellarning pishirib, briketlashdan hosil bo’lgan mahsulot",
+          "Ohaktosh yoki magnezial mergellarning pishirib, mayda tuyishdan hosil bo’lgan mahsulot",
+          "Ohaktosh yoki magnezial mergellarning pishirib, presslashdan hosil bo’lgan mahsulot",
+          "Ohaktosh yoki magnezial mergellarning qorishtirib, mayda tuyishdan hosil bo’lgan mahsulot"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 23,
+        "question": "Romansement qaerlarda ishlatiladi?",
+        "options": [
+          "Er usti gidroinshoati konstrukstiyalar uchun betonga, devor qurish va suvoq ishlarida",
+          "Er usti va ostida zo’riqishi katta konstrukstiyalar uchun betonga, devor qurish va suvoq ishlarida",
+          "Er usti va ostida zo’riqishi kam konstrukstiyalar uchun betonga, devor qurish va suvoq ishlarida ",
+          "Er  ostida konstrukstiyalar uchun betonga, devor qurish va suvoq ishlarida"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 24,
+        "question": "Klinker qanday xom-ashyolar asosida olinadi?",
+        "options": [
+          "Oxaktosh, qum, ogarka",
+          "Oxaktosh, tuproq, ogarka ",
+          "Oxaktosh, magnezit, ogarka",
+          "Oxaktosh, gips, ogarka"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 25,
+        "question": "Portlandstement olishda qanday xom-ashyolar ishlatiladi?",
+        "options": [
+          "Oxaktosh, gips, ogarka",
+          "Oxaktosh, tuproq, ogarka, gips",
+          "Oxaktosh, magnezit, ogarka",
+          "Oxaktosh, qum, ogarka"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 26,
+        "question": "Sement klinkeri kuydirish temperuturasini ko’rsating",
+        "options": [
+          "800 oC",
+          "1450 oC ",
+          "1000 oC",
+          "900 oC"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 27,
+        "question": "Portlandsement markasini ko’rsating",
+        "options": [
+          "300,400,500",
+          "100,150,200",
+          "70,80,90",
+          "30,40,50"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 28,
+        "question": "Aylanma pechga kirayotgan shlamning namligi necha foizni tashkil etadi?",
+        "options": [
+          "20 -25 %",
+          "10 – 12 %",
+          "35 - 45 %",
+          "15 – 20 %"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 29,
+        "question": "Portlandsement klinkerining mineralogik tarkibi ",
+        "options": [
+          "3CaO ∙ SiO2, 2CaO ∙ SiO2, 3CaO ∙ Al2O3, 4CaO ∙ Al2O3 ∙ Fe2O3",
+          "CaO ∙ SiO2, CaO ∙ Al2O3, Al2O3 ∙ Fe2O3",
+          "6CaO ∙ SiO2, CaO ∙ SiO2, CaO ∙ Al2O3, CaO ∙ Al2O3 ∙ Fe2O3",
+          "α - CaO ∙ SiO2, δ - CaO ∙ SiO2, CaO ∙ Al2O3, nH2O"
+        ],
+        "correctAnswerIndex": 0
+      },
+      
+    
+      {
+        "id": 30,
+        "question": "Portlandsement ishlab chiqarish usullari",
+        "options": [
+          "Quruq va xo’l usul ",
+          "Qovushqoq usul",
+          "Shliker usul",
+          "Yarm quruq usul"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 31,
+        "question": "Vertikal shlambasseyn nima maqsadda qo’llaniladi va uning xajmi?",
+        "options": [
+          "Shlam tarkibini saqlab turish uchun foydalaniladi, hajmi 400 – 1000 m3",
+          "Shlam tarkibini to’g’rilash uchun foydalaniladi, hajmi 400 – 1000 m3 ",
+          "Shlam tarkibini aralashtirish uchun foydalaniladi, hajmi 400 – 1000 m3",
+          "Shlam tarkibini qayta ishlash uchun foydalaniladi, hajmi 400 – 1000 m3"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 32,
+        "question": "Gorizontal shlam-basseynlar nima maqsadda qo’llaniladi va uning xajmi?",
+        "options": [
+          "Gomogenizastiyalash va zapas shlam zaxirasini saqlash uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni o’zgartirish  uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni to’g’rilash uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni qayta ishlash uchun,  sig’imli 8000 m3 gacha "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 33,
+        "question": "Alit mineralining formulasi ",
+        "options": [
+          "3CaO ∙ SiO2 ",
+          "2CaO ∙ SiO2",
+          "CaO ∙ SiO2",
+          "SiO2"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 34,
+        "question": "Belit mineralining formulasi ",
+        "options": [
+          "2CaO ∙ SiO2",
+          " SiO2",
+          "3CaO",
+          "SiO2"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 35,
+        "question": "Uch kalstiyli alyuminat formulasi ",
+        "options": [
+          "CaO ∙ SiO2",
+          "2CaO ∙ SiO2",
+          "6CaO ∙ SiO2",
+          "3CaO ∙ Al2O3"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 36,
+        "question": "To’rt  kalstiyli alyumoferrit formulasi ",
+        "options": [
+          "2CaO ∙ 2Al2O3 ∙ Fe2O3",
+          "5CaO ∙ Al2O3 ∙ 3Fe2O3",
+          "3CaO ∙ Al2O3 ∙ 2Fe2O3",
+          "4CaO ∙ Al2O3 ∙ Fe2O3 "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 37,
+        "question": "Klinker tarkibida P2O5 necha foizni tashkil etadi?",
+        "options": [
+          "1,5%",
+          "2%",
+          "1%",
+          "2,5%"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 38,
+        "question": "Portlandsement tarkibida SO3 necha atrofida bo’lishi kerak?",
+        "options": [
+          "4-6%",
+          "1,5-3,5 % ",
+          "2-4 %",
+          "3-5%"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 39,
+        "question": "Portlandsement tarkibida СaO erkin qancha bo’lishi kerak?",
+        "options": [
+          "1 % dan kam ",
+          "4 % dan kam",
+          "3 % dan kam",
+          "2 % dan kam"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 40,
+        "question": "Рortlandsementning tishlashish muddatini ko’rsating",
+        "options": [
+          "20 minut",
+          "15 minut",
+          "60 minut",
+          "45 minut "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 41,
+        "question": "Alit minerali qanday xossani beradi?",
+        "options": [
+          "Portlandstementning yuqori tishlashuvchanligi, sekin qotuvchanligi ta’minlaydi ",
+          "Portlandstementning yuqori mustahkamligi, tez qotuvchanligi ta’minlaydi ",
+          "Portlandstementning yuqori siljuvchanligi, tez qotuvchanligi ta’minlaydi",
+          "Portlandstementning yuqori mustahkamligi, sekin qotuvchanligi ta’minlaydi"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 42,
+        "question": "Belit minerali qanday xossaga ega?",
+        "options": [
+          "Dastlabki kunlarda sekin  qotadi, mustaxkamlik  yillar davomida oshib boradi ",
+          "Dastlabki kunlarda tez qotadi, mustaxkamlik bir oyda to’planadi",
+          "Dastlabki kunlarda qotmaydi, mustaxkamlikka ega emas",
+          "Dastlabki kunlarda tez qotadi, mustahkamlikka ega emas"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 43,
+        "question": "Portlandsement klinkeri minerallarining gidratastiyasi qanday jarayon?",
+        "options": [
+          "Issiqlik ajratib kechadigan jarayon",
+          "Issiqlik yutilishi bilan kechadigan jarayon ",
+          "Bug’ ajratib kechadigan jarayon",
+          "Suv yutilishi bilan kechadigan jarayon"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 44,
+        "question": "Sementning markasi uning necha kunlik muskahkamlik ko’rsatkichi bilan ifodalanadi?",
+        "options": [
+          "1,15,30    kunlik",
+          "2,10,30     kunlik",
+          "28        kunlik ",
+          "1,10,30     kunlik"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 45,
+        "question": "Aylanma pechning kalstiylanish zonasida temperatura necha gradus atrofida bo’ladi?",
+        "options": [
+          "600 – 700 oC atrofida",
+          "900 – 1000 oC atrofida ",
+          "1100 – 1200 oC atrofida",
+          "100 – 400 oC atrofida"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 46,
+        "question": "Klinker minerallarining suv bilan ta’sir etishi qanday jarayon?",
+        "options": [
+          "Klinker minerallarining suv bilan ta’sir etishi ekzotermik, ya’ni issiqlik ajraladigan jarayondir ",
+          "Klinker minerallarining suv bilan ta’sir etishi enzotermik, ya’ni issiqlik yutilishi jarayondir",
+          "Klinker minerallarining suv bilan ta’sir etishi neytral, ya’ni reakstiya bo’lmaydigan jarayondir",
+          "Klinker minerallarining suv bilan ta’sir etishi ekzotermik, ya’ni issiqlik ajraladigan jarayondir "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 47,
+        "question": "Aylanma pechga kirayotgan shlamning namligi necha foizni tashkil etadi?",
+        "options": [
+          "20 -25 %",
+          "10 – 12 %",
+          "35 - 45 %",
+          "15 – 20 %"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 48,
+        "question": "Portlandsement klinkerining mineralogik tarkibi ",
+        "options": [
+          "CaO ∙ SiO2, CaO ∙ Al2O3, Al2O3 ∙ Fe2O3",
+          "3CaO ∙ SiO2, 2CaO ∙ SiO2, 3CaO ∙ Al2O3, 4CaO ∙ Al2O3 ∙ Fe2O3",
+          "6CaO ∙ SiO2, CaO ∙ SiO2, CaO ∙ Al2O3, CaO ∙ Al2O3 ∙ Fe2O3",
+          "α - CaO ∙ SiO2, δ - CaO ∙ SiO2, CaO ∙ Al2O3, nH2O"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 49,
+        "question": "Silikat moduli qaysi formula yordamida aniqlanadi?",
+        "options": [
+          "n=〖%SiO〗_2/(〖%Al〗_2 O_3+〖%Fe〗_2 O_3 )  ",
+          " ",
+          " ",
+          " "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 50,
+        "question": "Glinozem  moduli qaysi formula yordamida aniqlanadi?",
+        "options": [
+          "  ",
+          " ",
+          " ",
+          " "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 51,
+        "question": "Portlandsement ishlab chiqarish usullari",
+        "options": [
+          "Quruq va xo’l usul ",
+          "Qovushqoq usul",
+          "Shliker usul",
+          "Yarm quruq usul"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 52,
+        "question": "Vertikal shlambasseyn nima maqsadda qo’llaniladi va uning xajmi?",
+        "options": [
+          "Shlam tarkibini qayta ishlash uchun foydalaniladi, hajmi 400 – 1000 m3",
+          "Shlam tarkibini to’g’rilash uchun foydalaniladi, hajmi 400 – 1000 m3 ",
+          "Shlam tarkibini saqlab turish uchun foydalaniladi, hajmi 400 – 1000 m3",
+          "Shlam tarkibini aralashtirish uchun foydalaniladi, hajmi 400 – 1000 m3"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 53,
+        "question": "Gorizontal shlam-basseynlar nima maqsadda qo’llaniladi va uning xajmi?",
+        "options": [
+          "Gomogenizastiyalash va zapas shlam zaxirasini saqlash uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni o’zgartirish  uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni to’g’rilash uchun,  sig’imli 8000 m3 gacha ",
+          "Zapas shlamni qayta ishlash uchun,  sig’imli 8000 m3 gacha "
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 54,
+        "question": "Alit mineralining formulasi ",
+        "options": [
+          "3CaO ∙ SiO2 ",
+          "SiO2",
+          "CaO ∙ SiO2",
+          "2CaO ∙ SiO2"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 55,
+        "question": "Belit mineralining formulasi ",
+        "options": [
+          "2CaO ∙ SiO2",
+          " SiO2",
+          "3CaO",
+          "SiO2"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 56,
+        "question": "Uch kalstiyli alyuminat formulasi ",
+        "options": [
+          "3CaO ∙ Al2O3",
+          "CaO ∙ SiO2",
+          "6CaO ∙ SiO2",
+          "2CaO ∙ SiO2"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 57,
+        "question": "To’rt  kalstiyli alyumoferrit formulasi ",
+        "options": [
+          "2CaO ∙ 2Al2O3 ∙ Fe2O3",
+          "5CaO ∙ Al2O3 ∙ 3Fe2O3",
+          "3CaO ∙ Al2O3 ∙ 2Fe2O3",
+          "4CaO ∙ Al2O3 ∙ Fe2O3 "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 58,
+        "question": "Klinker tarkibida P2O5 necha foizni tashkil etadi?",
+        "options": [
+          "1,5%",
+          "2%",
+          "1%",
+          "2,5%"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 59,
+        "question": "Diedr—bu",
+        "options": [
+          "Fаqаt bir kristаll yonidаn ibоrаt sоddа shаkl",
+          "Turli kristаll yonidаn ibоrаt sоddа shаkl",
+          "Ikkita bir biriga parallel yonidаn ibоrаt sоddа shаkl",
+          "Ikkitа (di-ikki) bir-birigа tеng, o’хshаsh, o’zаrо kеsishаdigаn yonlаrdаn ibоrаt sоddа shаkl "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 60,
+        "question": "Pinakoid",
+        "options": [
+          "Fаqаt bir kristаll yoni (mоnо-yunоnchа bir, edr — kristаll yoni) dаn ibоrаt sоddа shаkl",
+          "Ikkitа bir-birigа tеng, o’хshаsh, pаrаllеl yonlаrdаn tаshkil tоpgаn (pinаks — yunоnchа so’z bo’lib, tахtа dеmаkdir) sоddа shаkl",
+          "Fаqаt bir kristаll yonidаn ibоrаt sоddа shаkl",
+          "Turli kristаll yonidаn ibоrаt sоddа shаkl"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 61,
+        "question": "Prizmalar-bu",
+        "options": [
+          "Turli kristаll yonidаn ibоrаt sоddа shаkl",
+          "Fаqаt bir kristаll yoni (mоnо-yunоnchа bir, edr — kristаll yoni) dаn ibоrаt sоddа shаkl",
+          "Fаqаt bir kristаll yonidаn ibоrаt sоddа shаkl",
+          "Pаrаllеl qirrаlаr hоsil qilib, kеsishаdigаn uch vа undаn оrtiq o’хshаsh hаmdа tеng yonlаrdаn tuzilgаn  sоddа shаkllаr "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 62,
+        "question": "Qancha oddiy shakllar mavjud?",
+        "options": [
+          "57",
+          "47 ",
+          "5",
+          "7"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 63,
+        "question": "Singoniya necha turga bo’linadi?",
+        "options": [
+          "7",
+          "6",
+          "3",
+          "5"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 64,
+        "question": "Triklin singoniya nima ma’noni bildiradi?",
+        "options": [
+          "Grekcha so’zdan iborat bo’lib “To’gri” ma’noni bildiradi",
+          "Grekcha so’zdan iborat bo’lib “To’rtburchak” ma’noni bildiradi",
+          "Grekcha so’zdan iborat bo’lib “Qiyshiq” ma’noni bildiradi",
+          "Grekcha so’zdan iborat bo’lib tri-uch, klin esa qiyshiq ma’noni bildiradi "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 65,
+        "question": "Monoklin singoniya nima ma’noni bildiradi?",
+        "options": [
+          "(Grekcha - mono-bir)  Elementar yacheykasi qirralari orasidagi burchakning ikkitasi ga teng, uchinchi ga teng emas",
+          "Uchtasi xam ga teng emas",
+          "Uchta burchagi ga teng",
+          "Bittasi ga teng, ikkitasi teng emas"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 66,
+        "question": "Kristallarning qaysi shakli sodda shakl deyiladi?",
+        "options": [
+          "Xar xil yonlaridan tashkil topgan bo’lsa",
+          "Bir turli yonlaridan tashkil topgan bo’lsa ",
+          "Uch yonlaridan tashkil topgan bo’lsa",
+          "Prizma yonlar xosil qilsa"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 67,
+        "question": "Kristallarning qaysi shakli murakkab shakl deyiladi?",
+        "options": [
+          "Dipiramidalar shaklidan topgan bo’lsa",
+          "Bir turli yo’nlardan tashkil topgan bo’lsa",
+          "Bir necha xil turli tuman kurinishdagi shakllardan tashkil topgan bo’lsa",
+          "Kub shakldan tashkil topgan bo’lsa"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 68,
+        "question": "Singoniyalar nechta kategoriyalarga bo’linadi?",
+        "options": [
+          "Uchta:1)simmetriya darajasi past 2)simmetriya darajasi o’rtacha 3)simmetriya darajasi yuqori ",
+          "Beshta",
+          "Ikkita:1)simmetriya darajasi past 2)simmetriya darajasi yuqori ",
+          "Bitta: simmetriya darajasi past"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 69,
+        "question": "Nechta singoniya turlari mavjud?",
+        "options": [
+          "6 singoniya",
+          "3 singoniya",
+          "4 singoniya",
+          "7 singoniya "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 70,
+        "question": "Singoniya turlari",
+        "options": [
+          "Triklin, monoklin, geksagonal, trigonal, rombik, tetragonal, kub ",
+          "Romboklin, triklin, trigonal, tetragonal",
+          "Geksaklin, triklin, geksagonal, trigonal, rombik, monoklin, kub",
+          "Kub, monoklin va triklin"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 71,
+        "question": "Kristallar gabitusi deb:",
+        "options": [
+          "Moddadagi kristallar shakli va tashqi ko’rinishi tushuniladi ",
+          "Moddadagi kristallar turlari va ularning sinfi tushuniladi",
+          "Moddadagi kristallar singoniyalari tushuniladi",
+          "Minerallarning fizik kimyoviy xossallari tushuniladi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 72,
+        "question": "Minerallarning nur sindirish ko’rsatkichlari qanday asboblar yordamida aniqlanadi?",
+        "options": [
+          "DRON apparatlari",
+          "Polyarizastion mikroskop ",
+          "Rentgen trubka",
+          "Derivatograf, spektrofotometr"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 73,
+        "question": "Kristallarning qirralari amorf moddalardan qanday belgilari bilan farq qiladi?",
+        "options": [
+          "Kristall – tartibsiz strukturaga ega",
+          "Kristall – bu to’gri qirralar xosil qiluvchi tekis silliq, yonlari cheklangan qattik jism  Kristall anizotrop fizik jism ",
+          "Amorf modda – bu to’gri qirralar xosil qiluvchi tekis silliq, yonlari cheklangan qattik jism",
+          "Kristall – noto’gri qirralar bilan cheklangan va suyuq xolda bo’ladi"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 74,
+        "question": "Kristallarning necha xil fazoviy panjaralari mavjud?",
+        "options": [
+          "10 xil",
+          "14 xil ",
+          "3 xil",
+          "7 xil"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 75,
+        "question": "Minerallarning optik xususiyatlari qanday asboblar yordamida aniqlanadi?",
+        "options": [
+          "Derivatograf, spektrofotometr",
+          "Polyarizastion mikroskop, refraktometr ",
+          "DRON apparatlari",
+          "Rentgen trubka"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 76,
+        "question": "Fizik kimyoviy taxlil usullari - bu:",
+        "options": [
+          "Xom ashyo va materiallarni tarkibi, tuzilishi va strukturasini o’rganishda qo’llaniladigan usullar ",
+          "Silkat materiallar texnologiyasi asosiy jarayonlarini o’rganuvchi usullar",
+          "Silkat materiallarni ishlab chikarish texnologiyalarini o’rganuvchi usullar",
+          "Uskuna va apparatlarni tuzilishini o’rganuvchi usullar"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 77,
+        "question": "Simmetriya elementlari – bu",
+        "options": [
+          "Simmetriya yoli, simmetriya tekisligi",
+          "Yonlar uzunligi va burchagi",
+          "Simmetriya markazi, simmetriya tekisligi, simmetriya o’qi ",
+          "Simmetriya burchagi va yonlari"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 78,
+        "question": "Nur sindirish kursatkichini aniqlashda qanday usuldan foydalaniladi?",
+        "options": [
+          "Mikroskopik taxlil ",
+          "IQ spektroskopik taxlil",
+          "Polyarografik taxlil",
+          "Termik taxlil"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 79,
+        "question": "Optik mikroskopda asosiya aniqklanadigan hususiyat",
+        "options": [
+          "Mineralni qattiqligi",
+          "Mineralni optik ko’rsatkichlari (nur sindirish ko’rsatkichi)",
+          "Mineralni parchalanish harorati",
+          "Mineralni erish harorati"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 80,
+        "question": "Optik mikroskopning kattalashtiruvchi moslamasi:",
+        "options": [
+          "Ob’ektiv va okulyar ",
+          "Botiq linza",
+          "Trubka va lupa",
+          "Anod va katod"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 81,
+        "question": "Elektromagnit nurlarning asosiy ko’rsatkichi:",
+        "options": [
+          "To’lqin uzunligi ",
+          "To’lqinning suvda tarqalish tezligi",
+          "To’lqinning havoda tarqalish tezligi",
+          "To’lqinning to’griligi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 82,
+        "question": "Kristalloptika usuli  - bu:",
+        "options": [
+          "Moddalarning optik ko’rsatkichlarini o’rganadigan fan ",
+          "Moddalarning elektromagnit xususyatlarini o’rganadigan fan",
+          "Moddalarning termik xususyatlarini o’rganadigan fan",
+          "Moddalarga rentgen nurlari tushganda zarrachalarni tebranish darajasini o’rganadigan fan"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 83,
+        "question": "“Mikroskop” termini – bu",
+        "options": [
+          "Mayda ob’ektlarni ko’rsatuvchi asbob ma’nosini anglatadi ",
+          "Ob’ektlarni maydalash uchun asbob ma’nosini anglatadi",
+          "Ob’ektlarni o’rganish asbobi ma’nosini anglatadi",
+          "Yirik ob’ektlarni ko’rsatuvchi asbob ma’nosini anglatadi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 84,
+        "question": "Fizik-kimyoviy tahlilning zamonaviy usullarida ikki muhit:",
+        "options": [
+          "Kolloid va qattiq muhit  o’rtasidagi muloqotni o’rganiladi",
+          "Nur bilan kimyoviy modda (material) o’rtasidagi muloqotni o’rganiladi ",
+          "Suyuq va qattiq muhit  o’rtasidagi muloqotni o’rganiladi",
+          "Ikki material o’rtasidagi muloqotni o’rganiladi"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 85,
+        "question": "Moddalarning kimyoviy-mineralogik tarkibi va tuzilishini o’rganadigan eng qadimiy usul:",
+        "options": [
+          "Mikroskopiya ",
+          "Termografik tahlil",
+          "Rentgenografiya",
+          "Infraqizil spektroskopiya"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 86,
+        "question": "Mikroskopning qanday turlari mavjud?",
+        "options": [
+          "Derivatograf, piroskop",
+          "Polyarostatic- polyarizastion, elektron",
+          "Elektron, positron mikroskop",
+          "Polyarizastion, metallografik, mikrozond, electron "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 87,
+        "question": "Mineralning nur sindirish ko’rsatkichini aniqlanash usuli",
+        "options": [
+          "Mikroskopik taxlil ",
+          "Termik taxlil",
+          "Polyarografik taxlil",
+          "IQ spektroskopik taxlil"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 88,
+        "question": "Mikroskopik taxlilning immersion usulida aniqlanadigan xususiyat",
+        "options": [
+          "Mineralning nur sindirish ko’rsatkichi ",
+          "Mineralning zichligi",
+          "Mineralning polyarizastiyasi",
+          "Mineralning e’rish harorati"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 89,
+        "question": "Simmetriya elementlari - bu",
+        "options": [
+          "Inversiya markazi, kristall panjara yo’nlari va burchaklari",
+          "Simmetriya tekisligi va inversiya o’qlari",
+          "Simmetriya o’qlari, simmetriya tekisligi va inversiya markazi",
+          "Simmetriyao’qlari va tekisliklar aro masofa"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 90,
+        "question": "Оhаktоsh, so’ndirilmаgаn vа so’ndirilgаn оhаkning fоrmulаsini ko’rsаting 1)  2)   3)  4)  5)  6) ?",
+        "options": ["1,3,5 ", "2,3,4", "1,2,6", "1,6"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 91,
+        "question": "Quyidаgi kislоtаlаrning eng kuchlisini ko’rsаting?",
+        "options": ["HClO4 ", "HPO4", "HSO3", "HSO4"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 92,
+        "question": "Tаrkibidа mаgniy vа kalsiy gidrоkаrbоnаt bo’lgаn suvlаr qаndаy nоmlаnаdi?",
+        "options": ["yengil", "Judаyam qаttiq", "Vаqtinchаlik qаttiqlik ", "Оg’ir"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 93,
+        "question": "Quyidаgi zаrrаchаlаrni ulаrdаgi kimyoviy bоg`lаr sоni оrtib bоrish tаrtibidа jоylаshtiring  1)   2)  3)  ?",
+        "options": ["3, 2, 1", "1, 2, 3 ", "1, 3, 2", "3, 1, 2"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 94,
+        "question": "Ushbu rеаksiya tеnglаmаsi kоeffisеntlаrini tаnlаng ",
+        "options": ["2:1:2:3:4", "3:1:1:4:1", "2:1:1:2:1 ", "2:1:1:2:4"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 95,
+        "question": "4p pоg’оnаchаsidаn kеyin qaysi pоg`оnаchа elеktrоnlаrgа to`lа bоshlаydi?",
+        "options": ["3d", "4f", "5s ", "5p"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 96,
+        "question": "Kаrbоnаt kislоtаning qaysi tuzi nоrdоn tuz hisоblаnаdi?",
+        "options": ["kаliy kаrbоnаt", "nаtriy gidrоkаrbоnаt", "bаriy kаrbоnаt", "nаtriy kаrbоnаt"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 97,
+        "question": "Sulfаt kislоtаning grаfik fоrmulаsidа nеchtа оddiy vа nеchtа qo’sh bоg`lаr mаvjud?",
+        "options": ["4 vа 2 ", "5 vа 1", "6 vа 1", "5 vа 1"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 98,
+        "question": "Iоn bоg’ хоsil qiladigаn elеmеntlаr juftligini ko`rsаting 1)  vа   2)  vа   3)  vа   4)  vа   5)  vа   6)  vа  ?",
+        "options": ["4, 6", "5,6", "2, 3", "3, 5, 6"],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 99,
+        "question": "Iоn bоg`lаnishli mоddаlаrni ko`rsаting 1) Rubidiy хlоrid 2) Bоr хlоrid 3) Fоsfоr (III) хlоrid 4) Uglеrоd ( ) хlоrid 5) Bаriy хlоrid 6) Kаliy хlоrid?",
+        "options": [
+          "1, 2, 3",
+          "2, 4, 6",
+          "4, 5, 6",
+          "1, 5, 6 "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 100,
+        "question": "Vоdоrоd bоg’lаnish хоsil qiladigаn mоddаlаrni ko`rsаting  1)  2)  3) 4)  5)  6)  ?",
+        "options": [
+          "1, 3, 5",
+          "4, 5, 6",
+          "1, 2, 3 ",
+          "2, 4, 6"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 101,
+        "question": "Suyultirilgаn   tаyyorlаsh  uchun kоnsеntrlаngаn kislоtа suvgа quyilаdi  Bundа tеskаri аmаlni bаjаrish ruхsаt etilmаsligini sababini ko`rsating?",
+        "options": [
+          "Kаttа miqdоrdа issiklik аjrаlib chikishi nаtijаsidа eritmа sаchrаb kеtishi mumkin",
+          "Yongin sоdir bo’lishi mumkin",
+          "Suv pаrchаlаnishi mumkin",
+          "Zахаrli gаz mоddаlаri хоsil bo’lishi mumkin"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 102,
+        "question": "Quyidаgi jаrаyonlаrdаn fizikаviy хоdisаlаrni ko’rsаting 1) оltingugurtning suyuklаnishi  2) оltingugurtni yonishi 3) shishа pishirish 4) shishаni mаydаlаsh 5) shаkаr erishi 6) shаkаrning ko’mirlаnishi?",
+        "options": [
+          "4,5",
+          "1,4",
+          "1,2,3",
+          "1,4,5 "
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 103,
+        "question": "Osh tuzi suyuqlanmasi elektroliz  qilinganda anodda nima ajraladi?",
+        "options": [
+          "natriy",
+          "xlor ",
+          "kaliy",
+          "kislorod"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 110,
+        "question": "Sublimatlanish xusussiyati qaysi elementga xos?",
+        "options": ["Brom", "Xlor", "Yod", "Ftor"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 111,
+        "question": "Kislorodning necha  xil allotropik  ko’rinishi sizga ma’lum?",
+        "options": ["4", "5", "3", "1"],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 112,
+        "question": "80 g tеmir   оksididа nеchа mоl’ tеmir bоr?",
+        "options": ["2", "1", "1 5", "1 3"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 113,
+        "question": "Оddiy moddalar yonishidan nima hosil bo`ladi?",
+        "options": ["tuz", "оksid", "аsos", "kislota"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 114,
+        "question": "Zarrachalarning qaysilarida neytronlar va elektronlar soni bir-biriga teng bo’ladi?1) kaliy; 2) oltingugurt; 3) ftor anioni; 4) fosfor; 5) kalsiy; 6) xlor; 7) alyuminiy; 8) kislorod ?",
+        "options": ["2, 3,4,5", "2, 3,5,8 ", "3, 5, 6, 7", "1, 2, 3, 5"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 115,
+        "question": "Gaz, bug’ va suyuqliklarni uzatish, cho’ktirish, filtrlash, sentrifugalash kabi jarayonlar qaysi jarayonga to’g`ri keladi?",
+        "options": ["Kimyoviy", "Mоdda almashinish", "Gidrоmehanik ", "Issiqlik almashinish"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 116,
+        "question": "Absоlyut siqilmaydigan va ichki qarshilikka ega bo’lmagan suyuqlikka qanday suyuqlik deyiladi?",
+        "options": ["Tоmchili", "Nоrmal", "O`ta qоvushqоq", "Ideal "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 117,
+        "question": "Malum, bir me`yorda siqiladigan va qоvushqоqlik hususiyatiga ega bo’lgan suyuqlikka qanday suyuqlik deyiladi?",
+        "options": ["Ideal", "Haqiqiy ", "Tоmchili", "Nоrmal"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 118,
+        "question": "Birlik hajmdagi suyuqlik massasiga nima deyiladi?",
+        "options": ["Sоlishtirma оg`irlik", "Zichlik ", "Nisbiy zichlik", "Sоlishtirma hajm"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 119,
+        "question": "Mоdda zichligining suv zichligiga nisbati nima deyiladi?",
+        "options": ["Nisbiy zichlik ", "Zichlik", "Sоlishtirma оg`irlik", "Sоlishtirma hajm"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 120,
+        "question": "Birlik hajmda mоdda оg`irligi nima deb nоmlanadi?",
+        "options": ["Sоlishtirma оg`irlik ", "Zichlik", "Nisbiy zichlik", "Sоlishtirma hajm"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 121,
+        "question": "Jism birlik massasiga to’g`ri kelgan hajmga yoki zichlikka teskari bo’lgan kattalikka nima deyiladi?",
+        "options": ["Sоlishtirma hajm ", "Sоlishtirma оg`irlik", "Zichlik", "Nisbiy zichlik"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 122,
+        "question": "Suyuqlikning оqim harakatiga qarshilik qilish hususiyati nima deb nоmlanadi?",
+        "options": ["Zichlik", "Dinamik qоvushqоqlik ", "Bоsim", "Kinematik qоvushqоqlik"],
+        "correctAnswerIndex": 1
+      },
+      {
+        "id": 123,
+        "question": "Suyuqlik qоvushqоqligining uning zichligiga nisbati nima deyiladi?",
+        "options": ["Kinematik qоvushqоqlik ", "Dinamik qоvushqоqlik", "Bоsim", "Zichlik"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 124,
+        "question": "Vaqt birligi ichida, ko`ndalang kesim оrqali оqib o’tadigan suyuqlik miqdоriga nima deyiladi?",
+        "options": ["Hajmiy sarf", "Tezlik", "Sarf ", "Massaviy sarf"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 125,
+        "question": "Suyuqlik hajmiy sarfining ko`ndalang kesim yuzaga nisbati",
+        "options": ["Massaviy sarf", "Sarf", "Hajmiy sarf", "Tezlik "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 126,
+        "question": "Truba yoki kanal ko`ndalang kesimining ho’llangan perimetri nisbatiga nima deyiladi?",
+        "options": ["Gidravlik radius", "Diametr", "Sarf", "Ekvivalent diametr "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 127,
+        "question": "Agar suyuqlik zarrachalari оqim tezligi va quyidagi kattaliklar miqdоri (, t, P) vaqt o’tishi bilan o’zgarmasa, bu suyuqlikning оqim harakati qanday оqim deb ataladi?",
+        "options": ["laminar", "nоturg`un", "turg`un ", "turbulent"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 128,
+        "question": "Suyuqlik оqimiga ta`sir etuvchi kattaliklar vaqt o’tishi bilan o’zgarsa, suyuqlikning оqimi qanday nоmlanadi?",
+        "options": ["turg`un", "laminar", "nоturg`un ", "turbulent"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 129,
+        "question": "Suyuqlik zarrachalari bir-biri bilan parallel harakat qilsaharakat nima deb nоmlanadi?",
+        "options": ["laminar ", "turg`un", "o’tish", "turbulent"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 130,
+        "question": "Suyuqlik zarrachalari betartib harakat qilsa harakat nima deb nоmlanadi?",
+        "options": ["laminar", "turg`un", "turbulent ", "o’tish"],
+        "correctAnswerIndex": 2
+      },
+      {
+        "id": 131,
+        "question": "Quyidagi kattalikz qanday sig`imni (napоr) bildiradi?",
+        "options": ["Pоtensial", "Statik", "Dinamik", "Geоmetrik "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 132,
+        "question": "Suyuqlik sarfi va tezligini o’lchоvchi asbоbni nоmini aytib bering ",
+        "options": ["Manоmetr", "Statik", "Termоmetr", "Pitо-Prandil naychasi "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 133,
+        "question": "O’hshash bo’lgan kattaliklar nisbati o’zgarmas bo`lsa, bunday hоdisa nima deb nоmlanadi?",
+        "options": ["Barоbar", "Invariant", "Mоs tushadigan", "O’hshash "],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 134,
+        "question": "Tajriba paytida qanday kattaliklarni o`lchash kerak degan savоlga qaysi teоrema javоb beradi?",
+        "options": [
+          "Kirpichev va Guhmanning o’hshashlik 3-teоremasi",
+          "Furening qоnuni",
+          "Bekingem, Federmen va Afanaseva-Erenfestlarning o’hshashlik 2-teоremasi",
+          "Nyutоnning o’hshashlik 1-teоremasi"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 135,
+        "question": "Hоdisalar o`hshash bo`lishi uchun, qanday sharоitlar yetarli va zarur degan savоlga qaysi teоrema javоb beradi?",
+        "options": [
+          "Kirpichev va Guhmanning o’hshashlik 3-teоremasi",
+          "Nyutоnning o’hshashlik 1-teоremasi",
+          "Furening qоnuni",
+          "Bekingem, Federmen va Afanaseva-Erenfestlarning o’hshashlik 2-teоremasi"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "id": 136,
+        "question": "Tajriba natijalarini qanday qayta ishlash kerak degan savоlga qaysi teоrema javоb beradi?",
+        "options": [
+          "Nyutоnning o’hshashlik 1-teоremasi",
+          "Kirpichev va Guhmanning o’hshashlik 3-teоremasi",
+          "Furening qоnuni",
+          "Bekingem, Federmen va Afanaseva-Erenfestlarning o’hshashlik 2-teоremasi"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "id": 137,
+        "question": "Agarda qatlam zarrachalari bir hil o’lchamli bo’lsa, bunday qatlam nima deb ataladi?",
+        "options": [
+          "Yirik dispers",
+          "Bir turli",
+          "Mayda dispers",
+          "Pоlidispers"
+        ],
+        "correctAnswerIndex": 1
+      }
+  ]
+  
